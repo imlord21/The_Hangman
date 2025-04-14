@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 30px;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    text-align: center;
+}
+
+#word-display {
+    font-size: 32px;
+    letter-spacing: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#message {
+    font-size: 24px;
+    text-align: center;
+    margin-top: 20px;
+    color: #333;
+}
+
+#lives, #guessed-letters {
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+#letter-input {
+    display: block;
+    margin: 0 auto;
+    font-size: 20px;
+    padding: 5px;
+    width: 50px;
+    text-align: center;
+}
